@@ -22,6 +22,8 @@ do your changes
 5. git push
 
 
+gitk ::  we can see who updated
+
 --------------
 
  git config --global user.email "reddy.bhogesh@gmail.com"
