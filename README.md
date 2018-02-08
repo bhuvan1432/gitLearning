@@ -20,3 +20,10 @@ do your changes
 3. git add .     : adding the add files into local git
 4. git commit -m " your bug id/desc"  :   yandhuku push chesthunnav ::ex : working on  bug id vadition not working
 5. git push
+
+
+--------------
+
+ git config --global user.email "reddy.bhogesh@gmail.com"
+ git config --global user.name "Bhogesh"
+
