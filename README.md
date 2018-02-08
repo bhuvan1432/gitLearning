@@ -22,7 +22,9 @@ do your changes
 5. git push
 
 
-gitk ::  we can see who updated
+gitk ::  we can see who updated  history
+
+git checkout <filepath/filename>
 
 --------------
 
